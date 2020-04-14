@@ -1,0 +1,1549 @@
+
+Answer to question 1: 127352
+
+Answers to question 2:
+
+By Group:
+
+Athena: 979
+Monastiraki: 2132
+Plaka: 369
+Syntagma: 12169
+Acropolis: 1113
+Psyri: 13152
+Kolonaki: 157
+Neapoli: 3492
+Kallithea: 787
+Pireas: 2741
+Alimos: 530
+Galatsi: 3983
+Marathon: 85
+Rafina: 159
+Sounion: 2845
+Vouliagmeni: 17
+Corinth: 1815
+Epidavros: 73
+Poros: 2147
+Methana: 1063
+Idra: 21
+Ermioni: 4
+Spetses: 592
+Naplion: 1206
+Sparti: 2017
+Kalamata: 220
+Megalopolis: 3968
+Keroni: 466
+Methoni: 39
+Pilos: 398
+Olympia: 606
+Patras: 828
+Nafpaktos: 20
+Galaxidi: 1055
+Delphi: 219
+Corfu: 1801
+Sidari: 821
+Palaiokastritsa: 2796
+Preveza: 190
+Lefkada: 1979
+Nydri: 1138
+Meganisi: 4
+Vliho: 520
+Sivota: 604
+Vasiliki: 26
+Arkoudi: 7960
+Kalamos: 3
+Kastos: 38
+Atokos: 1510
+Ithaca: 4223
+Kioni: 106
+Frickes: 309
+Vathi: 239
+Sami: 1225
+Fiskardo: 226
+Kefalonia: 396
+Argolstolion: 18343
+Lixouri: 16
+Evia: 301
+Skiathos: 313
+Skopelos: 429
+Kea: 180
+Kithnos: 44
+Sifnos: 8
+Adamantas: 128
+Ios: 13662
+Naxos: 151
+Santorini: 613
+Klisidi: 1252
+Amorogos: 58
+Crete: 1946
+Chania: 109
+Heraklion: 32
+Samos: 548
+Serifos: 467
+Pythagoreio: 5
+Ikaria: 679
+Leros: 200
+Kos: 115
+Marmari: 156
+Kefalos: 16
+Total: 127352
+
+By Environment:
+
+Integration: 76888
+QA: 21698
+UAT: 7314
+QAStable: 4537
+IntegrationStable: 1809
+Live: 5371
+RegressionStable: 102
+Regression: 9100
+DR: 279
+Unknown: 163
+PAT: 91
+Total: 127352
+
+By Year:
+
+2016: 14801
+2017: 36698
+2018: 49929
+2019: 20675
+2015: 4873
+2014: 376
+Total: 127352
+
+Answer to question 3: Thursday
+
+Answer to question 4:
+
+Average length of time a release takes from integration to live, by project group:
+
+Athena: 5
+Monastiraki: 2
+Plaka: 0
+Syntagma: 45
+Acropolis: 24
+Psyri: 0
+Kolonaki: 1
+Neapoli: 11
+Kallithea: 23
+Pireas: 43
+Alimos: 2
+Galatsi: 32
+Marathon: 0
+Rafina: 3
+Sounion: 2
+Vouliagmeni: 0
+Corinth: 0
+Epidavros: 0
+Poros: 23
+Methana: 1
+Idra: 1
+Ermioni: 0
+Spetses: 10
+Naplion: 14
+Sparti: 8
+Kalamata: 0
+Megalopolis: 10
+Keroni: 12
+Methoni: 2
+Pilos: 0
+Olympia: 10
+Patras: 15
+Nafpaktos: 0
+Galaxidi: 3
+Delphi: 0
+Corfu: 32
+Sidari: 4
+Palaiokastritsa: 41
+Preveza: 5
+Lefkada: 35
+Nydri: 151
+Meganisi: 0
+Vliho: 17
+Sivota: 2
+Vasiliki: 0
+Arkoudi: 2
+Kalamos: 0
+Kastos: 0
+Atokos: 7
+Ithaca: 17
+Kioni: 0
+Frickes: 10
+Vathi: 10
+Sami: 2
+Fiskardo: 10
+Kefalonia: 15
+Argolstolion: 10
+Lixouri: 0
+Evia: 10
+Skiathos: 5
+Skopelos: 1
+Kea: 0
+Kithnos: 0
+Serifos: 0
+Sifnos: 0
+Adamantas: 0
+Ios: 0
+Naxos: 0
+Santorini: 0
+Klisidi: 0
+Amorogos: 0
+Crete: 2
+Chania: 0
+Heraklion: 0
+Samos: 1
+Pythagoreio: 0
+Ikaria: 0
+Leros: 0
+Kos: 0
+Marmari: 0
+Kefalos: 0
+Total: 691
+
+Answer to question 5:
+
+Full breakdown by group
+
+---------- Athena ---------- 
+
+Total Deployments: 1059
+Successful Deployments: 49
+Unsuccessful Deployments: 74
+Multiple Deployments Needed: Yes
+
+---------- Monastiraki ---------- 
+
+Total Deployments: 2657
+Successful Deployments: 171
+Unsuccessful Deployments: 476
+Multiple Deployments Needed: Yes
+
+---------- Plaka ---------- 
+
+Total Deployments: 468
+Successful Deployments: 0
+Unsuccessful Deployments: 85
+Multiple Deployments Needed: Yes
+
+---------- Syntagma ---------- 
+
+Total Deployments: 13447
+Successful Deployments: 307
+Unsuccessful Deployments: 1181
+Multiple Deployments Needed: Yes
+
+---------- Acropolis ---------- 
+
+Total Deployments: 1296
+Successful Deployments: 60
+Unsuccessful Deployments: 172
+Multiple Deployments Needed: Yes
+
+---------- Psyri ---------- 
+
+Total Deployments: 13356
+Successful Deployments: 0
+Unsuccessful Deployments: 173
+Multiple Deployments Needed: Yes
+
+---------- Kolonaki ---------- 
+
+Total Deployments: 207
+Successful Deployments: 14
+Unsuccessful Deployments: 49
+Multiple Deployments Needed: Yes
+
+---------- Neapoli ---------- 
+
+Total Deployments: 3903
+Successful Deployments: 257
+Unsuccessful Deployments: 380
+Multiple Deployments Needed: Yes
+
+---------- Kallithea ---------- 
+
+Total Deployments: 999
+Successful Deployments: 34
+Unsuccessful Deployments: 191
+Multiple Deployments Needed: Yes
+
+---------- Pireas ---------- 
+
+Total Deployments: 3043
+Successful Deployments: 125
+Unsuccessful Deployments: 254
+Multiple Deployments Needed: Yes
+
+---------- Alimos ---------- 
+
+Total Deployments: 592
+Successful Deployments: 19
+Unsuccessful Deployments: 58
+Multiple Deployments Needed: Yes
+
+---------- Galatsi ---------- 
+
+Total Deployments: 4195
+Successful Deployments: 1378
+Unsuccessful Deployments: 180
+Multiple Deployments Needed: Yes
+
+---------- Marathon ---------- 
+
+Total Deployments: 176
+Successful Deployments: 6
+Unsuccessful Deployments: 90
+Multiple Deployments Needed: Yes
+
+---------- Rafina ---------- 
+
+Total Deployments: 222
+Successful Deployments: 9
+Unsuccessful Deployments: 56
+Multiple Deployments Needed: Yes
+
+---------- Sounion ---------- 
+
+Total Deployments: 3984
+Successful Deployments: 113
+Unsuccessful Deployments: 1113
+Multiple Deployments Needed: Yes
+
+---------- Vouliagmeni ---------- 
+
+Total Deployments: 26
+Successful Deployments: 2
+Unsuccessful Deployments: 9
+Multiple Deployments Needed: Yes
+
+---------- Corinth ---------- 
+
+Total Deployments: 2064
+Successful Deployments: 0
+Unsuccessful Deployments: 229
+Multiple Deployments Needed: Yes
+
+---------- Epidavros ---------- 
+
+Total Deployments: 86
+Successful Deployments: 7
+Unsuccessful Deployments: 12
+Multiple Deployments Needed: No
+
+---------- Poros ---------- 
+
+Total Deployments: 2443
+Successful Deployments: 121
+Unsuccessful Deployments: 250
+Multiple Deployments Needed: Yes
+
+---------- Methana ---------- 
+
+Total Deployments: 1331
+Successful Deployments: 16
+Unsuccessful Deployments: 261
+Multiple Deployments Needed: Yes
+
+---------- Idra ---------- 
+
+Total Deployments: 31
+Successful Deployments: 2
+Unsuccessful Deployments: 10
+Multiple Deployments Needed: Yes
+
+---------- Ermioni ---------- 
+
+Total Deployments: 9
+Successful Deployments: 2
+Unsuccessful Deployments: 5
+Multiple Deployments Needed: Yes
+
+---------- Spetses ---------- 
+
+Total Deployments: 743
+Successful Deployments: 28
+Unsuccessful Deployments: 116
+Multiple Deployments Needed: Yes
+
+---------- Naplion ---------- 
+
+Total Deployments: 1482
+Successful Deployments: 60
+Unsuccessful Deployments: 247
+Multiple Deployments Needed: Yes
+
+---------- Sparti ---------- 
+
+Total Deployments: 2140
+Successful Deployments: 59
+Unsuccessful Deployments: 116
+Multiple Deployments Needed: Yes
+
+---------- Kalamata ---------- 
+
+Total Deployments: 255
+Successful Deployments: 0
+Unsuccessful Deployments: 29
+Multiple Deployments Needed: Yes
+
+---------- Megalopolis ---------- 
+
+Total Deployments: 4229
+Successful Deployments: 80
+Unsuccessful Deployments: 251
+Multiple Deployments Needed: Yes
+
+---------- Keroni ---------- 
+
+Total Deployments: 627
+Successful Deployments: 42
+Unsuccessful Deployments: 154
+Multiple Deployments Needed: Yes
+
+---------- Methoni ---------- 
+
+Total Deployments: 96
+Successful Deployments: 4
+Unsuccessful Deployments: 49
+Multiple Deployments Needed: Yes
+
+---------- Pilos ---------- 
+
+Total Deployments: 441
+Successful Deployments: 0
+Unsuccessful Deployments: 42
+Multiple Deployments Needed: Yes
+
+---------- Olympia ---------- 
+
+Total Deployments: 688
+Successful Deployments: 19
+Unsuccessful Deployments: 75
+Multiple Deployments Needed: Yes
+
+---------- Patras ---------- 
+
+Total Deployments: 950
+Successful Deployments: 52
+Unsuccessful Deployments: 109
+Multiple Deployments Needed: Yes
+
+---------- Nafpaktos ---------- 
+
+Total Deployments: 27
+Successful Deployments: 4
+Unsuccessful Deployments: 6
+Multiple Deployments Needed: Yes
+
+---------- Galaxidi ---------- 
+
+Total Deployments: 1427
+Successful Deployments: 82
+Unsuccessful Deployments: 348
+Multiple Deployments Needed: Yes
+
+---------- Delphi ---------- 
+
+Total Deployments: 277
+Successful Deployments: 0
+Unsuccessful Deployments: 57
+Multiple Deployments Needed: Yes
+
+---------- Corfu ---------- 
+
+Total Deployments: 1898
+Successful Deployments: 114
+Unsuccessful Deployments: 78
+Multiple Deployments Needed: Yes
+
+---------- Sidari ---------- 
+
+Total Deployments: 1044
+Successful Deployments: 27
+Unsuccessful Deployments: 221
+Multiple Deployments Needed: Yes
+
+---------- Palaiokastritsa ---------- 
+
+Total Deployments: 3179
+Successful Deployments: 125
+Unsuccessful Deployments: 355
+Multiple Deployments Needed: Yes
+
+---------- Preveza ---------- 
+
+Total Deployments: 238
+Successful Deployments: 14
+Unsuccessful Deployments: 40
+Multiple Deployments Needed: Yes
+
+---------- Lefkada ---------- 
+
+Total Deployments: 2127
+Successful Deployments: 111
+Unsuccessful Deployments: 115
+Multiple Deployments Needed: Yes
+
+---------- Nydri ---------- 
+
+Total Deployments: 1317
+Successful Deployments: 47
+Unsuccessful Deployments: 174
+Multiple Deployments Needed: Yes
+
+---------- Meganisi ---------- 
+
+Total Deployments: 6
+Successful Deployments: 0
+Unsuccessful Deployments: 1
+Multiple Deployments Needed: No
+
+---------- Vliho ---------- 
+
+Total Deployments: 667
+Successful Deployments: 18
+Unsuccessful Deployments: 136
+Multiple Deployments Needed: Yes
+
+---------- Sivota ---------- 
+
+Total Deployments: 703
+Successful Deployments: 8
+Unsuccessful Deployments: 90
+Multiple Deployments Needed: Yes
+
+---------- Vasiliki ---------- 
+
+Total Deployments: 26
+Successful Deployments: 0
+Unsuccessful Deployments: 0
+Multiple Deployments Needed: No
+
+---------- Arkoudi ---------- 
+
+Total Deployments: 8628
+Successful Deployments: 40
+Unsuccessful Deployments: 613
+Multiple Deployments Needed: Yes
+
+---------- Kalamos ---------- 
+
+Total Deployments: 6
+Successful Deployments: 0
+Unsuccessful Deployments: 2
+Multiple Deployments Needed: No
+
+---------- Kastos ---------- 
+
+Total Deployments: 49
+Successful Deployments: 38
+Unsuccessful Deployments: 11
+Multiple Deployments Needed: No
+
+---------- Atokos ---------- 
+
+Total Deployments: 1673
+Successful Deployments: 67
+Unsuccessful Deployments: 153
+Multiple Deployments Needed: Yes
+
+---------- Ithaca ---------- 
+
+Total Deployments: 4588
+Successful Deployments: 176
+Unsuccessful Deployments: 340
+Multiple Deployments Needed: Yes
+
+---------- Kioni ---------- 
+
+Total Deployments: 112
+Successful Deployments: 0
+Unsuccessful Deployments: 4
+Multiple Deployments Needed: No
+
+---------- Frickes ---------- 
+
+Total Deployments: 331
+Successful Deployments: 43
+Unsuccessful Deployments: 22
+Multiple Deployments Needed: Yes
+
+---------- Vathi ---------- 
+
+Total Deployments: 275
+Successful Deployments: 30
+Unsuccessful Deployments: 36
+Multiple Deployments Needed: Yes
+
+---------- Sami ---------- 
+
+Total Deployments: 1703
+Successful Deployments: 15
+Unsuccessful Deployments: 462
+Multiple Deployments Needed: Yes
+
+---------- Fiskardo ---------- 
+
+Total Deployments: 238
+Successful Deployments: 13
+Unsuccessful Deployments: 12
+Multiple Deployments Needed: No
+
+---------- Kefalonia ---------- 
+
+Total Deployments: 429
+Successful Deployments: 6
+Unsuccessful Deployments: 32
+Multiple Deployments Needed: Yes
+
+---------- Argolstolion ---------- 
+
+Total Deployments: 19930
+Successful Deployments: 785
+Unsuccessful Deployments: 1403
+Multiple Deployments Needed: Yes
+
+---------- Lixouri ---------- 
+
+Total Deployments: 28
+Successful Deployments: 2
+Unsuccessful Deployments: 11
+Multiple Deployments Needed: No
+
+---------- Evia ---------- 
+
+Total Deployments: 365
+Successful Deployments: 39
+Unsuccessful Deployments: 48
+Multiple Deployments Needed: Yes
+
+---------- Skiathos ---------- 
+
+Total Deployments: 371
+Successful Deployments: 13
+Unsuccessful Deployments: 57
+Multiple Deployments Needed: Yes
+
+---------- Skopelos ---------- 
+
+Total Deployments: 457
+Successful Deployments: 6
+Unsuccessful Deployments: 25
+Multiple Deployments Needed: Yes
+
+---------- Kea ---------- 
+
+Total Deployments: 208
+Successful Deployments: 71
+Unsuccessful Deployments: 26
+Multiple Deployments Needed: Yes
+
+---------- Kithnos ---------- 
+
+Total Deployments: 62
+Successful Deployments: 14
+Unsuccessful Deployments: 17
+Multiple Deployments Needed: Yes
+
+---------- Serifos ---------- 
+
+Total Deployments: 678
+Successful Deployments: 10
+Unsuccessful Deployments: 204
+Multiple Deployments Needed: Yes
+
+---------- Sifnos ---------- 
+
+Total Deployments: 12
+Successful Deployments: 0
+Unsuccessful Deployments: 4
+Multiple Deployments Needed: No
+
+---------- Adamantas ---------- 
+
+Total Deployments: 141
+Successful Deployments: 0
+Unsuccessful Deployments: 13
+Multiple Deployments Needed: Yes
+
+---------- Ios ---------- 
+
+Total Deployments: 13877
+Successful Deployments: 222
+Unsuccessful Deployments: 190
+Multiple Deployments Needed: Yes
+
+---------- Naxos ---------- 
+
+Total Deployments: 265
+Successful Deployments: 1
+Unsuccessful Deployments: 103
+Multiple Deployments Needed: Yes
+
+---------- Santorini ---------- 
+
+Total Deployments: 716
+Successful Deployments: 4
+Unsuccessful Deployments: 103
+Multiple Deployments Needed: Yes
+
+---------- Klisidi ---------- 
+
+Total Deployments: 1471
+Successful Deployments: 48
+Unsuccessful Deployments: 187
+Multiple Deployments Needed: Yes
+
+---------- Amorogos ---------- 
+
+Total Deployments: 74
+Successful Deployments: 0
+Unsuccessful Deployments: 16
+Multiple Deployments Needed: Yes
+
+---------- Crete ---------- 
+
+Total Deployments: 2059
+Successful Deployments: 53
+Unsuccessful Deployments: 100
+Multiple Deployments Needed: Yes
+
+---------- Chania ---------- 
+
+Total Deployments: 138
+Successful Deployments: 0
+Unsuccessful Deployments: 28
+Multiple Deployments Needed: Yes
+
+---------- Heraklion ---------- 
+
+Total Deployments: 62
+Successful Deployments: 1
+Unsuccessful Deployments: 30
+Multiple Deployments Needed: Yes
+
+---------- Samos ---------- 
+
+Total Deployments: 624
+Successful Deployments: 41
+Unsuccessful Deployments: 70
+Multiple Deployments Needed: Yes
+
+---------- Pythagoreio ---------- 
+
+Total Deployments: 6
+Successful Deployments: 0
+Unsuccessful Deployments: 1
+Multiple Deployments Needed: No
+
+---------- Ikaria ---------- 
+
+Total Deployments: 763
+Successful Deployments: 29
+Unsuccessful Deployments: 81
+Multiple Deployments Needed: Yes
+
+---------- Leros ---------- 
+
+Total Deployments: 223
+Successful Deployments: 18
+Unsuccessful Deployments: 21
+Multiple Deployments Needed: Yes
+
+---------- Kos ---------- 
+
+Total Deployments: 124
+Successful Deployments: 0
+Unsuccessful Deployments: 8
+Multiple Deployments Needed: Yes
+
+---------- Marmari ---------- 
+
+Total Deployments: 190
+Successful Deployments: 0
+Unsuccessful Deployments: 34
+Multiple Deployments Needed: No
+
+---------- Kefalos ---------- 
+
+Total Deployments: 32
+Successful Deployments: 0
+Unsuccessful Deployments: 15
+Multiple Deployments Needed: No
+
+Answer to question 1: 127352
+
+Answers to question 2:
+
+By Group:
+
+Athena: 979
+Monastiraki: 2132
+Plaka: 369
+Syntagma: 12169
+Acropolis: 1113
+Psyri: 13152
+Kolonaki: 157
+Neapoli: 3492
+Kallithea: 787
+Pireas: 2741
+Alimos: 530
+Galatsi: 3983
+Marathon: 85
+Rafina: 159
+Sounion: 2845
+Vouliagmeni: 17
+Corinth: 1815
+Epidavros: 73
+Poros: 2147
+Methana: 1063
+Idra: 21
+Ermioni: 4
+Spetses: 592
+Naplion: 1206
+Sparti: 2017
+Kalamata: 220
+Megalopolis: 3968
+Keroni: 466
+Methoni: 39
+Pilos: 398
+Olympia: 606
+Patras: 828
+Nafpaktos: 20
+Galaxidi: 1055
+Delphi: 219
+Corfu: 1801
+Sidari: 821
+Palaiokastritsa: 2796
+Preveza: 190
+Lefkada: 1979
+Nydri: 1138
+Meganisi: 4
+Vliho: 520
+Sivota: 604
+Vasiliki: 26
+Arkoudi: 7960
+Kalamos: 3
+Kastos: 38
+Atokos: 1510
+Ithaca: 4223
+Kioni: 106
+Frickes: 309
+Vathi: 239
+Sami: 1225
+Fiskardo: 226
+Kefalonia: 396
+Argolstolion: 18343
+Lixouri: 16
+Evia: 301
+Skiathos: 313
+Skopelos: 429
+Kea: 180
+Kithnos: 44
+Sifnos: 8
+Adamantas: 128
+Ios: 13662
+Naxos: 151
+Santorini: 613
+Klisidi: 1252
+Amorogos: 58
+Crete: 1946
+Chania: 109
+Heraklion: 32
+Samos: 548
+Serifos: 467
+Pythagoreio: 5
+Ikaria: 679
+Leros: 200
+Kos: 115
+Marmari: 156
+Kefalos: 16
+Total: 127352
+
+By Environment:
+
+Integration: 76888
+QA: 21698
+UAT: 7314
+QAStable: 4537
+IntegrationStable: 1809
+Live: 5371
+RegressionStable: 102
+Regression: 9100
+DR: 279
+Unknown: 163
+PAT: 91
+Total: 127352
+
+By Year:
+
+2016: 14801
+2017: 36698
+2018: 49929
+2019: 20675
+2015: 4873
+2014: 376
+Total: 127352
+
+Answer to question 3: Thursday
+
+Answer to question 4:
+
+Average length of time a release takes from integration to live, by project group:
+
+Athena: 5
+Monastiraki: 2
+Plaka: 0
+Syntagma: 45
+Acropolis: 24
+Psyri: 0
+Kolonaki: 1
+Neapoli: 11
+Kallithea: 23
+Pireas: 43
+Alimos: 2
+Galatsi: 32
+Marathon: 0
+Rafina: 3
+Sounion: 2
+Vouliagmeni: 0
+Corinth: 0
+Epidavros: 0
+Poros: 23
+Methana: 1
+Idra: 1
+Ermioni: 0
+Spetses: 10
+Naplion: 14
+Sparti: 8
+Kalamata: 0
+Megalopolis: 10
+Keroni: 12
+Methoni: 2
+Pilos: 0
+Olympia: 10
+Patras: 15
+Nafpaktos: 0
+Galaxidi: 3
+Delphi: 0
+Corfu: 32
+Sidari: 4
+Palaiokastritsa: 41
+Preveza: 5
+Lefkada: 35
+Nydri: 151
+Meganisi: 0
+Vliho: 17
+Sivota: 2
+Vasiliki: 0
+Arkoudi: 2
+Kalamos: 0
+Kastos: 0
+Atokos: 7
+Ithaca: 17
+Kioni: 0
+Frickes: 10
+Vathi: 10
+Sami: 2
+Fiskardo: 10
+Kefalonia: 15
+Argolstolion: 10
+Lixouri: 0
+Evia: 10
+Skiathos: 5
+Skopelos: 1
+Kea: 0
+Kithnos: 0
+Serifos: 0
+Sifnos: 0
+Adamantas: 0
+Ios: 0
+Naxos: 0
+Santorini: 0
+Klisidi: 0
+Amorogos: 0
+Crete: 2
+Chania: 0
+Heraklion: 0
+Samos: 1
+Pythagoreio: 0
+Ikaria: 0
+Leros: 0
+Kos: 0
+Marmari: 0
+Kefalos: 0
+Total: 691
+
+Answer to question 5:
+
+Full breakdown by group
+
+---------- Athena ---------- 
+
+Total Deployments: 1059
+Successful Deployments: 49
+Unsuccessful Deployments: 74
+Multiple Deployments Needed: Yes
+
+---------- Monastiraki ---------- 
+
+Total Deployments: 2657
+Successful Deployments: 171
+Unsuccessful Deployments: 476
+Multiple Deployments Needed: Yes
+
+---------- Plaka ---------- 
+
+Total Deployments: 468
+Successful Deployments: 0
+Unsuccessful Deployments: 85
+Multiple Deployments Needed: Yes
+
+---------- Syntagma ---------- 
+
+Total Deployments: 13447
+Successful Deployments: 307
+Unsuccessful Deployments: 1181
+Multiple Deployments Needed: Yes
+
+---------- Acropolis ---------- 
+
+Total Deployments: 1296
+Successful Deployments: 60
+Unsuccessful Deployments: 172
+Multiple Deployments Needed: Yes
+
+---------- Psyri ---------- 
+
+Total Deployments: 13356
+Successful Deployments: 0
+Unsuccessful Deployments: 173
+Multiple Deployments Needed: Yes
+
+---------- Kolonaki ---------- 
+
+Total Deployments: 207
+Successful Deployments: 14
+Unsuccessful Deployments: 49
+Multiple Deployments Needed: Yes
+
+---------- Neapoli ---------- 
+
+Total Deployments: 3903
+Successful Deployments: 257
+Unsuccessful Deployments: 380
+Multiple Deployments Needed: Yes
+
+---------- Kallithea ---------- 
+
+Total Deployments: 999
+Successful Deployments: 34
+Unsuccessful Deployments: 191
+Multiple Deployments Needed: Yes
+
+---------- Pireas ---------- 
+
+Total Deployments: 3043
+Successful Deployments: 125
+Unsuccessful Deployments: 254
+Multiple Deployments Needed: Yes
+
+---------- Alimos ---------- 
+
+Total Deployments: 592
+Successful Deployments: 19
+Unsuccessful Deployments: 58
+Multiple Deployments Needed: Yes
+
+---------- Galatsi ---------- 
+
+Total Deployments: 4195
+Successful Deployments: 1378
+Unsuccessful Deployments: 180
+Multiple Deployments Needed: Yes
+
+---------- Marathon ---------- 
+
+Total Deployments: 176
+Successful Deployments: 6
+Unsuccessful Deployments: 90
+Multiple Deployments Needed: Yes
+
+---------- Rafina ---------- 
+
+Total Deployments: 222
+Successful Deployments: 9
+Unsuccessful Deployments: 56
+Multiple Deployments Needed: Yes
+
+---------- Sounion ---------- 
+
+Total Deployments: 3984
+Successful Deployments: 113
+Unsuccessful Deployments: 1113
+Multiple Deployments Needed: Yes
+
+---------- Vouliagmeni ---------- 
+
+Total Deployments: 26
+Successful Deployments: 2
+Unsuccessful Deployments: 9
+Multiple Deployments Needed: Yes
+
+---------- Corinth ---------- 
+
+Total Deployments: 2064
+Successful Deployments: 0
+Unsuccessful Deployments: 229
+Multiple Deployments Needed: Yes
+
+---------- Epidavros ---------- 
+
+Total Deployments: 86
+Successful Deployments: 7
+Unsuccessful Deployments: 12
+Multiple Deployments Needed: No
+
+---------- Poros ---------- 
+
+Total Deployments: 2443
+Successful Deployments: 121
+Unsuccessful Deployments: 250
+Multiple Deployments Needed: Yes
+
+---------- Methana ---------- 
+
+Total Deployments: 1331
+Successful Deployments: 16
+Unsuccessful Deployments: 261
+Multiple Deployments Needed: Yes
+
+---------- Idra ---------- 
+
+Total Deployments: 31
+Successful Deployments: 2
+Unsuccessful Deployments: 10
+Multiple Deployments Needed: Yes
+
+---------- Ermioni ---------- 
+
+Total Deployments: 9
+Successful Deployments: 2
+Unsuccessful Deployments: 5
+Multiple Deployments Needed: Yes
+
+---------- Spetses ---------- 
+
+Total Deployments: 743
+Successful Deployments: 28
+Unsuccessful Deployments: 116
+Multiple Deployments Needed: Yes
+
+---------- Naplion ---------- 
+
+Total Deployments: 1482
+Successful Deployments: 60
+Unsuccessful Deployments: 247
+Multiple Deployments Needed: Yes
+
+---------- Sparti ---------- 
+
+Total Deployments: 2140
+Successful Deployments: 59
+Unsuccessful Deployments: 116
+Multiple Deployments Needed: Yes
+
+---------- Kalamata ---------- 
+
+Total Deployments: 255
+Successful Deployments: 0
+Unsuccessful Deployments: 29
+Multiple Deployments Needed: Yes
+
+---------- Megalopolis ---------- 
+
+Total Deployments: 4229
+Successful Deployments: 80
+Unsuccessful Deployments: 251
+Multiple Deployments Needed: Yes
+
+---------- Keroni ---------- 
+
+Total Deployments: 627
+Successful Deployments: 42
+Unsuccessful Deployments: 154
+Multiple Deployments Needed: Yes
+
+---------- Methoni ---------- 
+
+Total Deployments: 96
+Successful Deployments: 4
+Unsuccessful Deployments: 49
+Multiple Deployments Needed: Yes
+
+---------- Pilos ---------- 
+
+Total Deployments: 441
+Successful Deployments: 0
+Unsuccessful Deployments: 42
+Multiple Deployments Needed: Yes
+
+---------- Olympia ---------- 
+
+Total Deployments: 688
+Successful Deployments: 19
+Unsuccessful Deployments: 75
+Multiple Deployments Needed: Yes
+
+---------- Patras ---------- 
+
+Total Deployments: 950
+Successful Deployments: 52
+Unsuccessful Deployments: 109
+Multiple Deployments Needed: Yes
+
+---------- Nafpaktos ---------- 
+
+Total Deployments: 27
+Successful Deployments: 4
+Unsuccessful Deployments: 6
+Multiple Deployments Needed: Yes
+
+---------- Galaxidi ---------- 
+
+Total Deployments: 1427
+Successful Deployments: 82
+Unsuccessful Deployments: 348
+Multiple Deployments Needed: Yes
+
+---------- Delphi ---------- 
+
+Total Deployments: 277
+Successful Deployments: 0
+Unsuccessful Deployments: 57
+Multiple Deployments Needed: Yes
+
+---------- Corfu ---------- 
+
+Total Deployments: 1898
+Successful Deployments: 114
+Unsuccessful Deployments: 78
+Multiple Deployments Needed: Yes
+
+---------- Sidari ---------- 
+
+Total Deployments: 1044
+Successful Deployments: 27
+Unsuccessful Deployments: 221
+Multiple Deployments Needed: Yes
+
+---------- Palaiokastritsa ---------- 
+
+Total Deployments: 3179
+Successful Deployments: 125
+Unsuccessful Deployments: 355
+Multiple Deployments Needed: Yes
+
+---------- Preveza ---------- 
+
+Total Deployments: 238
+Successful Deployments: 14
+Unsuccessful Deployments: 40
+Multiple Deployments Needed: Yes
+
+---------- Lefkada ---------- 
+
+Total Deployments: 2127
+Successful Deployments: 111
+Unsuccessful Deployments: 115
+Multiple Deployments Needed: Yes
+
+---------- Nydri ---------- 
+
+Total Deployments: 1317
+Successful Deployments: 47
+Unsuccessful Deployments: 174
+Multiple Deployments Needed: Yes
+
+---------- Meganisi ---------- 
+
+Total Deployments: 6
+Successful Deployments: 0
+Unsuccessful Deployments: 1
+Multiple Deployments Needed: No
+
+---------- Vliho ---------- 
+
+Total Deployments: 667
+Successful Deployments: 18
+Unsuccessful Deployments: 136
+Multiple Deployments Needed: Yes
+
+---------- Sivota ---------- 
+
+Total Deployments: 703
+Successful Deployments: 8
+Unsuccessful Deployments: 90
+Multiple Deployments Needed: Yes
+
+---------- Vasiliki ---------- 
+
+Total Deployments: 26
+Successful Deployments: 0
+Unsuccessful Deployments: 0
+Multiple Deployments Needed: No
+
+---------- Arkoudi ---------- 
+
+Total Deployments: 8628
+Successful Deployments: 40
+Unsuccessful Deployments: 613
+Multiple Deployments Needed: Yes
+
+---------- Kalamos ---------- 
+
+Total Deployments: 6
+Successful Deployments: 0
+Unsuccessful Deployments: 2
+Multiple Deployments Needed: No
+
+---------- Kastos ---------- 
+
+Total Deployments: 49
+Successful Deployments: 38
+Unsuccessful Deployments: 11
+Multiple Deployments Needed: No
+
+---------- Atokos ---------- 
+
+Total Deployments: 1673
+Successful Deployments: 67
+Unsuccessful Deployments: 153
+Multiple Deployments Needed: Yes
+
+---------- Ithaca ---------- 
+
+Total Deployments: 4588
+Successful Deployments: 176
+Unsuccessful Deployments: 340
+Multiple Deployments Needed: Yes
+
+---------- Kioni ---------- 
+
+Total Deployments: 112
+Successful Deployments: 0
+Unsuccessful Deployments: 4
+Multiple Deployments Needed: No
+
+---------- Frickes ---------- 
+
+Total Deployments: 331
+Successful Deployments: 43
+Unsuccessful Deployments: 22
+Multiple Deployments Needed: Yes
+
+---------- Vathi ---------- 
+
+Total Deployments: 275
+Successful Deployments: 30
+Unsuccessful Deployments: 36
+Multiple Deployments Needed: Yes
+
+---------- Sami ---------- 
+
+Total Deployments: 1703
+Successful Deployments: 15
+Unsuccessful Deployments: 462
+Multiple Deployments Needed: Yes
+
+---------- Fiskardo ---------- 
+
+Total Deployments: 238
+Successful Deployments: 13
+Unsuccessful Deployments: 12
+Multiple Deployments Needed: No
+
+---------- Kefalonia ---------- 
+
+Total Deployments: 429
+Successful Deployments: 6
+Unsuccessful Deployments: 32
+Multiple Deployments Needed: Yes
+
+---------- Argolstolion ---------- 
+
+Total Deployments: 19930
+Successful Deployments: 785
+Unsuccessful Deployments: 1403
+Multiple Deployments Needed: Yes
+
+---------- Lixouri ---------- 
+
+Total Deployments: 28
+Successful Deployments: 2
+Unsuccessful Deployments: 11
+Multiple Deployments Needed: No
+
+---------- Evia ---------- 
+
+Total Deployments: 365
+Successful Deployments: 39
+Unsuccessful Deployments: 48
+Multiple Deployments Needed: Yes
+
+---------- Skiathos ---------- 
+
+Total Deployments: 371
+Successful Deployments: 13
+Unsuccessful Deployments: 57
+Multiple Deployments Needed: Yes
+
+---------- Skopelos ---------- 
+
+Total Deployments: 457
+Successful Deployments: 6
+Unsuccessful Deployments: 25
+Multiple Deployments Needed: Yes
+
+---------- Kea ---------- 
+
+Total Deployments: 208
+Successful Deployments: 71
+Unsuccessful Deployments: 26
+Multiple Deployments Needed: Yes
+
+---------- Kithnos ---------- 
+
+Total Deployments: 62
+Successful Deployments: 14
+Unsuccessful Deployments: 17
+Multiple Deployments Needed: Yes
+
+---------- Serifos ---------- 
+
+Total Deployments: 678
+Successful Deployments: 10
+Unsuccessful Deployments: 204
+Multiple Deployments Needed: Yes
+
+---------- Sifnos ---------- 
+
+Total Deployments: 12
+Successful Deployments: 0
+Unsuccessful Deployments: 4
+Multiple Deployments Needed: No
+
+---------- Adamantas ---------- 
+
+Total Deployments: 141
+Successful Deployments: 0
+Unsuccessful Deployments: 13
+Multiple Deployments Needed: Yes
+
+---------- Ios ---------- 
+
+Total Deployments: 13877
+Successful Deployments: 222
+Unsuccessful Deployments: 190
+Multiple Deployments Needed: Yes
+
+---------- Naxos ---------- 
+
+Total Deployments: 265
+Successful Deployments: 1
+Unsuccessful Deployments: 103
+Multiple Deployments Needed: Yes
+
+---------- Santorini ---------- 
+
+Total Deployments: 716
+Successful Deployments: 4
+Unsuccessful Deployments: 103
+Multiple Deployments Needed: Yes
+
+---------- Klisidi ---------- 
+
+Total Deployments: 1471
+Successful Deployments: 48
+Unsuccessful Deployments: 187
+Multiple Deployments Needed: Yes
+
+---------- Amorogos ---------- 
+
+Total Deployments: 74
+Successful Deployments: 0
+Unsuccessful Deployments: 16
+Multiple Deployments Needed: Yes
+
+---------- Crete ---------- 
+
+Total Deployments: 2059
+Successful Deployments: 53
+Unsuccessful Deployments: 100
+Multiple Deployments Needed: Yes
+
+---------- Chania ---------- 
+
+Total Deployments: 138
+Successful Deployments: 0
+Unsuccessful Deployments: 28
+Multiple Deployments Needed: Yes
+
+---------- Heraklion ---------- 
+
+Total Deployments: 62
+Successful Deployments: 1
+Unsuccessful Deployments: 30
+Multiple Deployments Needed: Yes
+
+---------- Samos ---------- 
+
+Total Deployments: 624
+Successful Deployments: 41
+Unsuccessful Deployments: 70
+Multiple Deployments Needed: Yes
+
+---------- Pythagoreio ---------- 
+
+Total Deployments: 6
+Successful Deployments: 0
+Unsuccessful Deployments: 1
+Multiple Deployments Needed: No
+
+---------- Ikaria ---------- 
+
+Total Deployments: 763
+Successful Deployments: 29
+Unsuccessful Deployments: 81
+Multiple Deployments Needed: Yes
+
+---------- Leros ---------- 
+
+Total Deployments: 223
+Successful Deployments: 18
+Unsuccessful Deployments: 21
+Multiple Deployments Needed: Yes
+
+---------- Kos ---------- 
+
+Total Deployments: 124
+Successful Deployments: 0
+Unsuccessful Deployments: 8
+Multiple Deployments Needed: Yes
+
+---------- Marmari ---------- 
+
+Total Deployments: 190
+Successful Deployments: 0
+Unsuccessful Deployments: 34
+Multiple Deployments Needed: No
+
+---------- Kefalos ---------- 
+
+Total Deployments: 32
+Successful Deployments: 0
+Unsuccessful Deployments: 15
+Multiple Deployments Needed: No
+
